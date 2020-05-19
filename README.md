@@ -1,6 +1,6 @@
 # serverless-framework-docker-image
 
-An docker image with the serverless framework installed on it. It uses the [circleci/node](https://hub.docker.com/r/circleci/node) image as the base.
+A docker image with the serverless framework installed on it. It uses the [circleci/node](https://hub.docker.com/r/circleci/node) image as the base.
 
 ## Usage
 
