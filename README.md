@@ -4,4 +4,4 @@ A docker image with the serverless framework installed on it built on the [circl
 
 ## Usage
 
-This is intended to be used as a container in a CI/CD pipeline for the [Serverless Framework](https://www.serverless.com/)
+This is intended to be used as a build container in a CI/CD pipeline for the [Serverless Framework](https://www.serverless.com/)
