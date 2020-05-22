@@ -1,3 +1,2 @@
 FROM circleci/node
-RUN sudo npm i -g serverless
-RUN sudo npm update -g serverless
+CMD sudo npm i -g serverless && sudo npm update -g serverless
